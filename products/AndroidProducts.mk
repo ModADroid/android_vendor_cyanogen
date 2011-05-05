@@ -5,7 +5,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_bravoc.mk \
     $(LOCAL_DIR)/cyanogen_buzz.mk \
     $(LOCAL_DIR)/cyanogen_click.mk \
-    $(LOCAL_DIR)/cyanogen_crespo.mk \
     $(LOCAL_DIR)/cyanogen_desirec.mk \
     $(LOCAL_DIR)/cyanogen_dream_sapphire.mk \
     $(LOCAL_DIR)/cyanogen_encore.mk \
