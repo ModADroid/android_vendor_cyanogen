@@ -10,6 +10,7 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/cyanogen_encore.mk \
     $(LOCAL_DIR)/cyanogen_espresso.mk \
     $(LOCAL_DIR)/cyanogen_fascinate.mk \
+    $(LOCAL_DIR)/cyanogen_galaxytab.mk \
     $(LOCAL_DIR)/cyanogen_hero.mk \
     $(LOCAL_DIR)/cyanogen_heroc.mk \
     $(LOCAL_DIR)/cyanogen_inc.mk \
